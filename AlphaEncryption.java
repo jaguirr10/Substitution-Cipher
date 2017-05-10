@@ -1,3 +1,5 @@
+//Juan Aguirre
+
 import java.util.Scanner;
 
 public class AlphaEncryption
